@@ -1,6 +1,6 @@
 # Gender-Classification-using-ML
 
-### Gender Classification with different Machine Learning models, using the LibriSpeech ASR dataset.
+### Automatic Speech Classification of Genders with different Machine Learning models, using the LibriSpeech ASR dataset.
 
 [![Python](https://img.shields.io/pypi/pyversions/tensorflow.svg?style=plastic)](https://badge.fury.io/py/tensorflow)
 [![PyPI](https://badge.fury.io/py/tensorflow.svg)](https://badge.fury.io/py/tensorflow)
